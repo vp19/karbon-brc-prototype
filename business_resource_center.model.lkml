@@ -10,8 +10,6 @@ explore: workpercentagecomplete {}
 
 explore: work_items {}
 
+explore: work_items_by_assignee {}
+
 # - explore: email_response_time_summary
-
-# - explore: fivetran_audit
-
-# - explore: work_summary
