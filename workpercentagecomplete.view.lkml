@@ -130,6 +130,6 @@ view: workpercentagecomplete {
 
   measure: count {
     type: count
-    drill_fields: [id, org_name, tenant_name, contact_name]
+    drill_fields: [org_name, work_title,primary_status,start_date,due_date,completed_date]
   }
 }
